@@ -1,0 +1,6 @@
+D:\Maulik Work\Event\Sample1\Sample2\bin\Debug\Sample2.exe.config
+D:\Maulik Work\Event\Sample1\Sample2\bin\Debug\Sample2.exe
+D:\Maulik Work\Event\Sample1\Sample2\bin\Debug\Sample2.pdb
+D:\Maulik Work\Event\Sample1\Sample2\obj\Debug\Sample2.csproj.CoreCompileInputs.cache
+D:\Maulik Work\Event\Sample1\Sample2\obj\Debug\Sample2.exe
+D:\Maulik Work\Event\Sample1\Sample2\obj\Debug\Sample2.pdb
